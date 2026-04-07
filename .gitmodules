@@ -1,0 +1,18 @@
+[submodule "Dashun"]
+	path = Dashun
+	url = https://github.com/gopsc/Dashun
+[submodule "aibox"]
+	path = aibox
+	url = https://github.com/gopsc/aibox
+[submodule "jump"]
+	path = jump
+	url = https://github.com/gopsc/jump
+[submodule "Minervato"]
+	path = Minervato
+	url = https://github.com/gopsc/Minervato
+[submodule "smn"]
+	path = smn
+	url = https://github.com/gopsc/smn
+[submodule "pmc"]
+	path = pmc
+	url = https://github.com/gopsc/pmc
