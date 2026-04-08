@@ -16,3 +16,6 @@
 [submodule "pmc"]
 	path = pmc
 	url = https://github.com/gopsc/pmc
+[submodule "bot4cj"]
+	path = bot4cj
+	url = https://gitcode.com/qingss0/bot4cj
