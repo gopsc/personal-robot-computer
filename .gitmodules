@@ -19,3 +19,6 @@
 [submodule "bot4cj"]
 	path = bot4cj
 	url = https://gitcode.com/qingss0/bot4cj
+[submodule "ppllm"]
+	path = ppllm
+	url = https://github.com/gopsc/ppllm
