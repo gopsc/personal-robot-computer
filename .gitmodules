@@ -22,3 +22,6 @@
 [submodule "ppllm"]
 	path = ppllm
 	url = https://github.com/gopsc/ppllm
+[submodule "song"]
+	path = song
+	url = https://github.com/gopsc/song
